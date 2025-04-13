@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
+*.pkl
+*.db
+qiskit-env/
